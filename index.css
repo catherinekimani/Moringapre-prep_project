@@ -1,0 +1,152 @@
+* {
+    border:0px solid black;
+}
+.nav {
+    display: flex;
+    width: 100%;
+}
+.LOGO {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'poppins';
+    display: flex;
+    width: 50%;
+}
+span {
+    color: orange;
+}
+.container {
+    display:flex;
+    justify-content: end;
+    align-items: center;
+    background-image: linear-gradient(120degs, 40%white, 40%orange);
+    width: 50%;
+}
+.order-now {
+    /* padding: 3px; */
+    border-radius: 0px;
+    background: orange;
+    color: white;
+    font-weight: bold;
+}
+.header {
+    display: flex;
+    width: 100%;
+}
+.left {
+    width: 50%;
+    padding: 5%;
+}
+.right {
+    width: 50%;
+}
+a {
+    display: flex;
+    font-weight:lighter;
+    font-size:20px;
+    color:black;
+    text-decoration: none;
+    padding: 8px;
+}
+.shopping-cart{
+    display: flex;
+    right: 0px;;
+}
+h1 {
+    text-align: left;
+    margin: 20px;
+    padding: 5px;
+    position: relative;
+}
+#three {
+    width:100%;
+    padding : 10px;
+    display: flex;
+}
+.our {
+    text-align: center;
+    font-weight: bold;
+}
+.menu {
+    width:100%;
+    padding: 10px;
+    display: flex;
+}
+.menu2 {
+    width:100%;
+    padding: 10px;
+    display: flex;
+}
+.double-decker {
+    width:100%;
+    padding: 10px;
+    background: #a4dbdb;
+    display: flex;
+}
+.one {
+    display: flex;
+    justify-content: space-between;
+}
+.two {
+    display: flex;
+    justify-content: space-between;
+}
+.three {
+    display: flex;
+    justify-content: space-between;
+}
+.four {
+    display: flex;
+    justify-content: space-between;
+}
+.five {
+    display: flex;
+    justify-content: space-between;
+}
+.six {
+    display: flex;
+    justify-content: space-between;
+}
+.discover {
+    width: 100%;
+    height: 80vh;
+    padding: 10px;
+    background: rgba(255, 181, 71, 0.897);
+    display: flex;
+}
+.apps {
+    font-weight: bold;
+    font-size: 30px;
+}
+#logo {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 40vh;
+    background: white;
+}
+.site-map {
+    display: flex;
+}
+.HOME {
+    display: flex;
+    flex-direction: column;
+    padding: 20%;
+    margin: 10%;
+}
+.subscribe {
+    display: flex;
+    align-items: center;
+    margin-top: -10%;
+    margin-right: -50%;
+}
+.email{
+    display: flex;
+    align-items: center;
+}
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
