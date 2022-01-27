@@ -10,7 +10,7 @@ A simple HTML & CSS Project of a Restaurant Website
 ## setup/installation instructions
 * Make sure you have access to a browser
 * Click on the live link in the about section
-* Click at this live link
+* Click at this live link (https://catherinekimani.github.io/Moringapre-prep_project/)
 * Have Fun!!!
 
 ## Contact
